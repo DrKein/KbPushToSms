@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotiToSms</string>
+    <string name="send_sms_to">Send SMS To :</string>
+</resources>
